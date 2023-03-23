@@ -31,7 +31,7 @@ organizations:
     url: https://www.tongji.edu.cn/
 education:
   courses:
-    - course: BEng in Automation (mainly engaged in Computer Vision and Deep Learning)
+    - course: BEng in Automation (mainly engaged in Computer Vision)
       institution: Tongji University
       year: 2024
 superuser: true
