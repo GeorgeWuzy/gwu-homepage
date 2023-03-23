@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: George Wu 吴致远
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Zhiyuan
 last_name: Wu
 
 # Status emoji
@@ -14,21 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student of Tongji University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision in Robotics
+  - Medical Robots
+  - Stereo Matching
+  - Scene Parsiing
 
 # Education to show in About widget
 education:
