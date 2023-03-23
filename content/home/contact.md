@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: haooyang-li@outlook.com
-  phone: (+86) 191-217-23032
+  email: gwu@tongji.edu.cn
+  phone: (+86) 189-1734-9073
   address:
     street: 4800 Cao’an Highway
     city: Shanghai

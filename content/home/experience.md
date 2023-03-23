@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Vision4Robotics, Tongji University
-    company_url: 'https://vision4robotics.github.io/'
+    company: MIAS Group, Tongji University
+    company_url: 'https://mias.group/'
     company_logo: V4R
     location: Shanghai
     date_start: '2022-07-01'
@@ -44,7 +44,7 @@ experience:
     Responsibilities include:: |2-
         * Build 2 puncture robot prototypes
         * Explore image segmentation algorithms for NIR and Ultrasound
-        * Design mechanical medical aids
+        * Design medical assistance systems
 
 design:
   columns: '2'

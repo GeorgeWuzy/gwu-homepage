@@ -1,5 +1,5 @@
 ---
-title: Zhiyuan-Wu 吴致远
+title: Zhiyuan Wu 吴致远
 # role: Research Assistant in [Vision4robotics](https://vision4robotics.github.io/)
 avatar_filename: avatar.jpg
 bio: My research interests include computer vision in robotics, stereo matching, and scene parsing.
@@ -40,6 +40,6 @@ highlight_name: true
 first_name: Zhiyuan
 email: gwu@tongji.edu.cn
 ---
-Zhiyuan (George) Wu is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in Automation. He works in [MIAS Group](https://mias.group/) and [Venibot Group](https://baijiahao.baidu.com/s?id=1689465611202221561&wfr=spider&for=pc)[](https://baijiahao.baidu.com/s?id=1689465611202221561&wfr=spider&for=pc). His research interests include computer vision in robotics, stereo matching, and scene parsing. 
+Zhiyuan (George) Wu is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in Automation. He works in [MIAS Group](https://mias.group/) and [Venibot Group](https://baijiahao.baidu.com/s?id=1689465611202221561&wfr=spider&for=pc)[](https://baijiahao.baidu.com/s?id=1689465611202221561&wfr=spider&for=pc). He had an internship at [Airfit](http://www.airfit.cn/) as an R&D assistant. His research interests include computer vision in robotics, stereo matching, and scene parsing. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/zywu_resume_working.pdf" "newtab" >}}resumé{{< /staticref >}}.
