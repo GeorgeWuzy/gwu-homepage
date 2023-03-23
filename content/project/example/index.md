@@ -1,5 +1,5 @@
 ---
-slides: example
+# slides: example
 url_pdf: ""
 title: 千针万确—基于深度学习多模态图像引导智能静脉穿刺机器人
 summary: Nowadays, **venipuncture** has been exclusively performed in both
@@ -13,13 +13,13 @@ date: 2021-01-01T05:05:08.602Z
 external_link: ""
 url_slides: ""
 subtitle: A portable robotic device for autonomous vascular access.
-tags:
-  - Robotics
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# tags:
+#   - Robotics
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 image:
   caption: Post by Venibot Group
   focal_point: Smart

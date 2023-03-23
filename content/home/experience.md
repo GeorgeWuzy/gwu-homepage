@@ -25,14 +25,14 @@ experience:
   - title: Research Assistant
     company: MIAS Group, Tongji University
     company_url: 'https://mias.group/'
-    company_logo: V4R
+    company_logo: MIAS
     location: Shanghai
-    date_start: '2022-07-01'
+    date_start: '2021-11-01'
     date_end: ''
     Responsibilities include:: |2-
-        * Develop real-time and robust aerial visual tracking methods
-        * Explore unmanned aerial vehicle (UAV) tracking strategies in low-light environment
-        * Introduce visual object tracking benchmarks from multiple views
+        * Develop Joint optimization of stereo vision and scene parsing
+        * Research on transparent-aware stereo matching (TA-Stereo) for corner cases
+        * Create datasets for transparent object detection
 
   - title: Research Assistant
     company: Venibot Group, Tongji University
