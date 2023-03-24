@@ -55,9 +55,9 @@ url_poster: ""
 url_code: https://mias.group/publications/
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
