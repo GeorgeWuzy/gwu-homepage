@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: gwu@tongji.edu.cn
-  phone: (+86) 189-1734-9073
+  # phone: (+86) 189-1734-9073
   address:
     street: 4800 Cao’an Highway
     city: Shanghai
